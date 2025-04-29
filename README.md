@@ -34,16 +34,16 @@
 ## 📈 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-Rybakov&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=orybakov&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Rybakov&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orybakov&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 📌 Закреплённые проекты
 
-- [🔧 ng-cms](https://github.com/O-Rybakov/ng-cms) — кастомная CMS на Angular
+- [🔧 ng-cms](https://github.com/orybakov/ng-cms) — кастомная CMS на Angular
 - [🧩 ngx-custom-controls](https://github.com/orybakov/ngx-custom-controls) — библиотека UI-компонентов
 - [📦 angular-devops-starter](https://github.com/orybakov/angular-devops-starter) — шаблон с CI/CD и Docker
 
