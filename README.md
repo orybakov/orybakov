@@ -33,9 +33,8 @@
 
 ## 📈 GitHub Статистика
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=orybakov&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orybakov&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
