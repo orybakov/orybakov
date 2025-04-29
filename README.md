@@ -44,8 +44,8 @@
 ## 📌 Закреплённые проекты
 
 - [🔧 ng-cms](https://github.com/O-Rybakov/ng-cms) — кастомная CMS на Angular
-- [🧩 ngx-custom-controls](https://github.com/O-Rybakov/ngx-custom-controls) — библиотека UI-компонентов
-- [📦 angular-devops-starter](https://github.com/O-Rybakov/angular-devops-starter) — шаблон с CI/CD и Docker
+- [🧩 ngx-custom-controls](https://github.com/orybakov/ngx-custom-controls) — библиотека UI-компонентов
+- [📦 angular-devops-starter](https://github.com/orybakov/angular-devops-starter) — шаблон с CI/CD и Docker
 
 ---
 
