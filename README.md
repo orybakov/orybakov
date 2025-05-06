@@ -54,7 +54,7 @@
 
 ---
 
-## ✍️ Статьи и заметки (если есть)
+## ✍️ Статьи и заметки
 
 - [Angular Tips: advanced DI & architecture](https://dev.to/...)  
 - [CI/CD для Angular: GitHub Actions + Docker](https://medium.com/...)
