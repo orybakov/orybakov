@@ -12,9 +12,9 @@
 [![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
 
-**I build maintainable frontend systems, full-stack products and automation that removes repetitive work.**
+**Frontend engineer building maintainable products, automation and AI-assisted systems.**
 
-[Selected work](#-selected-work) · [Stack](#-toolbox) · [Contact](#-contact)
+[About](#-about_me) · [Focus](#-what-i-build) · [Stack](#-toolbox) · [Contact](#-contact)
 
 </div>
 
@@ -24,9 +24,9 @@
 
 I'm a **frontend-focused software engineer** working primarily with **Angular, TypeScript and modern web architecture**.
 
-My sweet spot is where product engineering meets systems thinking: complex UI, state management, monorepos, APIs, CI/CD, developer tooling and automation. I like taking a feature beyond “it works on my machine” — through architecture, tests, observability and deployment.
+My strongest area is complex product frontend: state, architecture, monorepos, typed contracts, maintainability and the engineering around the UI — testing, CI/CD, observability and delivery.
 
-I also build outside the browser: **Node.js / NestJS**, **Python / FastAPI**, PostgreSQL, Redis, Docker, Linux infrastructure and local AI tooling.
+I’m also comfortable going beyond the frontend when the problem requires it: APIs, queues, databases, Docker, Linux infrastructure, automation and local AI tooling.
 
 ```ts
 const engineering = {
@@ -39,50 +39,31 @@ const engineering = {
 };
 ```
 
-## 🚀 Selected work
+## ⚡ What I build
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Product frontend
+Complex Angular applications with scalable state, reusable UI patterns, clear boundaries and predictable data flow.
 
-### [Logistics CRM](https://github.com/orybakov/demo_logistic_crm)
+### Full-stack systems
+Typed frontend-to-backend flows, REST APIs, background jobs, persistence, caching and supporting infrastructure.
 
-Enterprise-style logistics platform built as a production-oriented monorepo.
+### Automation
+Services and tools that replace repetitive manual workflows with reliable pipelines.
 
-**Next.js 14 · React 18 · NestJS 10 · Prisma · PostgreSQL · Redis · BullMQ · Turborepo · Docker**
+### AI-assisted tooling
+Local LLM experiments, agent workflows, model routing and practical integrations where AI actually saves engineering time.
 
-- frontend + backend monorepo
-- queues and cache infrastructure
-- health / readiness / liveness endpoints
-- metrics and operational documentation
-- CI/CD-ready project structure
+### Self-hosted infrastructure
+Linux-first environments, Dockerized services, reverse proxies, internal tools and homelab infrastructure.
 
-</td>
-<td width="50%" valign="top">
+## 🧠 Engineering principles
 
-### [SkillForge](https://github.com/orybakov/skillforge)
-
-Personal skill-development platform focused on modern Angular architecture.
-
-**Angular 19 · RxJS · NgRx / Signal Store · Firebase · PWA · Tailwind CSS · CI/CD**
-
-- roadmap and task management
-- progress tracking
-- responsive dark UI
-- offline/PWA support
-- Firebase authentication and persistence
-
-</td>
-</tr>
-</table>
-
-## 🧠 What I'm exploring
-
-- **AI-assisted engineering** — local LLMs, agent workflows and tool orchestration
-- **Automation pipelines** — turning multi-step manual processes into reliable services
-- **Self-hosted infrastructure** — Linux, Docker, reverse proxies, media/services stack
-- **Data-driven systems** — async APIs, event processing and market-data experimentation
-- **Frontend architecture** — scalable state, typed contracts and maintainable monorepos
+- **Architecture should reduce cognitive load**, not create ceremonies.
+- **Types, tests and CI are product features** when they prevent regressions.
+- **Automate repetition** once the automation becomes cheaper than doing the task manually.
+- **Measure before optimizing.**
+- Prefer **simple, observable systems** over clever black boxes.
+- Comfortable moving between **UI, backend, infrastructure and tooling** when ownership demands it.
 
 ## 🧰 Toolbox
 
@@ -110,23 +91,6 @@ Personal skill-development platform focused on modern Angular architecture.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=orybakov&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orybakov&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-
-</div>
-
-## 🤝 How I work
-
-- Prefer **clear architecture and boring reliability** over clever abstractions.
-- Treat types, tests, linting and CI as part of the product — not cleanup work.
-- Automate repetitive operations whenever the automation is cheaper than the repetition.
-- Optimize after measuring; document decisions that future maintainers will need.
-- Comfortable moving between **product UI, APIs, infrastructure and tooling** when the problem requires it.
 
 ## 📫 Contact
 
